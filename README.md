@@ -1,4 +1,6 @@
-# Readme
+# README
+Code repository of article `A robotic sensory system with high spatiotemporal resolution for texture recognitiona`.
+
 ### 1. `data_preprocess_evaluation.py`
 
 #### Overview
